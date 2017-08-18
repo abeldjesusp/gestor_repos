@@ -1,0 +1,22 @@
+h2
+{
+	font-size: 1.8em;
+}
+h3
+{
+	font-size: 1.4em;
+}
+.preview
+{
+	padding: 0.5em;
+}
+.colletion-item
+{
+	border: 1px grey solid;
+	text-align: center;
+	cursor: pointer;
+}
+.colletion-item:nth-child(odd)
+{
+	background: #969696;
+}
